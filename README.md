@@ -1,2 +1,2 @@
 # LLD
-lets study abt LLD
+lets study abt llD
